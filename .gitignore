@@ -1,3 +1,4 @@
 # Ignore the data folder, which contains the csv file of the data and a description of the csv columns
 data/
 .idea/
+.DS_Store
